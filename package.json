@@ -1,4 +1,4 @@
-"homepage": "https://YOUR_USERNAME.github.io/pet-breed-shop",
+"homepage": "https://github.com/yashu-24p/petbreedshop.git",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
